@@ -5,7 +5,7 @@ Tento projekt obsahuje interaktivní Power BI report určený pro turisty plánu
 ##  Obsah repozitáře
 * `Power BI_Stezka.pbix` - Hlavní soubor s Power BI reportem a DAX metrikami.
 * `data_stezka.xlsx` - Původní dataset. 
-* 'data_stezka_final.xlsx' – data po vyčištění a úpravách použitá pro analýzu.
+* `data_stezka_final.xlsx` – data po vyčištění a úpravách použitá pro analýzu.
 
 ##  Popis Reportu
 Report je rozdělen do dvou hlavních logických celků:
