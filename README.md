@@ -15,7 +15,7 @@ Report je rozdělen do dvou hlavních logických celků:
 
 ##  Hlavní interaktivní funkce
 * **Dynamický protisměr:** Report obsahuje pokročilé DAX metriky, které po stisknutí tlačítka (Tam / Protisměr) automaticky prohodí hodnoty stoupání a klesání v tabulkách i grafech podle toho, jakým směrem se turista rozhodne jít.
-* **Čitelné vizualizace:** Vodorovné sloupcové grafy zajišťují perfektní čitelnost dlouhých názvů etap.
+* **Čitelné vizualizace:** Vodorovné sloupcové grafy zajišťují dobrou čitelnost dlouhých názvů etap.
 
 ##  Použité technologie
 * **Microsoft Power BI Desktop**
