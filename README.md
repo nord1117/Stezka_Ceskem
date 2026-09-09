@@ -7,11 +7,11 @@ Tento projekt obsahuje interaktivní Power BI report určený pro turisty plánu
 * `data_stezka.xlsx` - Původní dataset. 
 * `data_stezka_final.xlsx` – Vyčištěná a upravená data. 
 
-##  Popis Reportu
+##  Popis reportu
 Report je rozdělen do dvou hlavních logických celků:
 
 1. **Přehled všech etap:** Celkový katalog, kde si turista může na jedné obrazovce porovnat všechny dostupné etapy v České republice podle jejich délky a celkového převýšení. Obsahuje moderní KPI blok se souhrnnými informacemi.
-2. **Plánovač trasy (Detail):** Detailní průvodce pro jednu vybranou etapu. Zobrazuje průměrnou denní náročnost kopců (při kalkulaci standardního výkonu 25 km na den).
+2. **Plánovač trasy (Detail):** Detailní průvodce pro jednu vybranou etapu. Zobrazuje průměrnou denní náročnost kopců při orientačním předpokladu 25 km trasy za den pro turistu.
 
 ##  Hlavní interaktivní funkce
 * **Dynamický protisměr:** Report obsahuje pokročilé DAX metriky, které po stisknutí tlačítka (Tam / Protisměr) automaticky prohodí hodnoty stoupání a klesání v tabulkách i grafech podle toho, jakým směrem se turista rozhodne jít.
