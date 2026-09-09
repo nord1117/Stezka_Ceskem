@@ -3,8 +3,9 @@
 Tento projekt obsahuje interaktivní Power BI report určený pro turisty plánující přechod **Stezky Českem**. Report poskytuje přehled o náročnosti jednotlivých etap a umožňuje dynamické plánování tras v obou směrech.
 
 ##  Obsah repozitáře
-* `Stezka_Ceskem.pbix` - Hlavní soubor s Power BI reportem a DAX metrikami.
-* `Stezka_Ceskem_Data.xlsx` - Původní zdrojová data z Excelu obsahující kilometry, dny a výškové metry etap.
+* `Power BI_Stezka.pbix` - Hlavní soubor s Power BI reportem a DAX metrikami.
+* `data_stezka.xlsx` - Původní dataset. 
+* 'data_stezka_final.xlsx' – data po vyčištění a úpravách použitá pro analýzu.
 
 ##  Popis Reportu
 Report je rozdělen do dvou hlavních logických celků:
