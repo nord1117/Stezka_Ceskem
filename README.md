@@ -5,7 +5,7 @@ Tento projekt obsahuje interaktivní Power BI report určený pro turisty plánu
 ##  Obsah repozitáře
 * `Power BI_Stezka.pbix` - Hlavní soubor s Power BI reportem a DAX metrikami.
 * `data_stezka.xlsx` - Původní dataset. 
-* `data_stezka_final.xlsx` – data po vyčištění a úpravách použitá pro analýzu.
+* `data_stezka_final.xlsx` – data po vyčištění a úpravách použitá pro analýzu. 
 
 ##  Popis Reportu
 Report je rozdělen do dvou hlavních logických celků:
@@ -15,7 +15,7 @@ Report je rozdělen do dvou hlavních logických celků:
 
 ##  Hlavní interaktivní funkce
 * **Dynamický protisměr:** Report obsahuje pokročilé DAX metriky, které po stisknutí tlačítka (Tam / Protisměr) automaticky prohodí hodnoty stoupání a klesání v tabulkách i grafech podle toho, jakým směrem se turista rozhodne jít.
-* **Očištěné vizuály:** Vodorovné sloupcové grafy zajišťují perfektní čitelnost dlouhých názvů etap.
+* **Čitelné vizualizace:** Vodorovné sloupcové grafy zajišťují perfektní čitelnost dlouhých názvů etap.
 
 ##  Použité technologie
 * **Microsoft Power BI Desktop**
